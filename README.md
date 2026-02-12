@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=600&size=32&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Aakash+S;Developer+%7C+Data+Enthusiast;Building+Scalable+Solutions;Turning+Ideas+Into+Reality+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
-</p>
+
 
 <h3 align="center">
 💻 Developer • 📊 Data Enthusiast • ☁️ Cloud Learner
