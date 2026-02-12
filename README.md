@@ -52,3 +52,13 @@ Goal:
 
 ## 🖥️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
+<h3 align="center">
+
+<!-- Language and Tools Section Here -->
+<h1 align="left">🛠 Language and Tools</h1>
+
+<!-- Vector Tool Gif -->
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<!-- Vector Tool Gif Ends -->
