@@ -13,7 +13,7 @@
 </p>
 
 <!-- Hero Banner -->
-<img src="https://github.com/tubakhxn/tubakhxn/blob/main/github-header-image.png" width="100%">
+<img src="https://github.com/AakashSsiva/AakashSsiva/blob/main/Banner.png" width="100%">
 
 <h3 align="center">
 💻 Developer • 📊 Data Enthusiast • ☁️ Cloud Learner
