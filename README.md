@@ -49,3 +49,6 @@ Goal:
   <a href="https://www.hackerrank.com/profile/aakashsiva689" target="_blank"><img src="https://github.com/AakashSsiva/AakashSsiva/blob/main/Intro%20AK/HackerRank_Icon-1000px.png" height="30" /></a>
   <a href="https://www.linkedin.com/in/aakash-s-5819b8297/" target="_blank"><img src="https://github.com/AakashSsiva/AakashSsiva/blob/main/Intro%20AK/download.png" height="30" /></a>
 </p>
+
+## 🖥️ Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
