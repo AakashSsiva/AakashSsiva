@@ -27,7 +27,6 @@ Passionate about building intelligent systems, solving real-world problems, and 
 
 # 👨‍💻 About Me
 
-```yaml
 Name: Aakash S
 Location: India 🇮🇳
 Role: Developer
@@ -42,3 +41,11 @@ Currently Learning:
   - Cloud Architecture
 Goal:
   - Become a high-impact engineer building products at scale
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.instagram.com/therandomdreames" target="_blank"><img src="https://github.com/AakashSsiva/AakashSsiva/blob/main/Intro%20AK/instagram-logo_971166-164497.avif" height="30" /></a>
+  <a href="https://www.hackerrank.com/tubak2907?hr_r=1" target="_blank"><img src="https://github.com/AakashSsiva/AakashSsiva/blob/main/Intro%20AK/HackerRank_Icon-1000px.png" height="30" /></a>
+  <a href="https://www.linkedin.com/in/aakash-s-5819b8297/" target="_blank"><img src="https://github.com/AakashSsiva/AakashSsiva/blob/main/Intro%20AK/download.png" height="30" /></a>
+</p>
